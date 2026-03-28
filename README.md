@@ -17,6 +17,7 @@ This project uses fake gym attendance and member data to show how different age 
 - People under 40 made up 60% of total attendance
 - Zumba and Spin were most popular for 40+
 - CrossFit had more consistent younger attendance
+<img width="630" height="470" alt="download" src="https://github.com/user-attachments/assets/019a0771-c5ab-4b95-a952-f76b47a1f0c2" />
 
 ## 📂 Files
 - `attendance_analysis.ipynb` — Jupyter Notebook
